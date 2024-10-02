@@ -19,6 +19,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 ---
 ## 📂 **Proje Listesi ve Notlarım**
 
+
 ### 🛠️ **Proje Adı**                 | 🌟 **Puan**                       | 🛠️ **Proje Adı**                | 🌟 **Puan**
 | ----------------------------------- | --------------------------------- | ------------------------------- | ------------------------------ |
 | **Libft**                           | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) | **CPP Module 01**               | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
@@ -35,6 +36,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | **CPP Module 00**                   | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) | **Ft_transcendence**            | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 
 ---
+
 
 
 
