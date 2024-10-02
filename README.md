@@ -1,36 +1,24 @@
-# 🏆 **42 Projects & Exams Overview**
+# ✨ **Ecole 42 Common Core Progress**
 
-Bu repoda, **Ecole 42**'de yaptığım projeleri ve sınavları bulabilirsiniz. Her proje branch olarak kaydedilmiş durumda. İlgilendiğiniz projeyi inceleyebilirsiniz. 📁
-
----
-
-## **Proje Listesi** 🚀
-
-### 🔷 **Libft**
-- **Açıklama:** C dilinde temel veri yapıları ve fonksiyonlardan oluşan kişisel kütüphane.
-- **Puan:** ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen)
-  
-### 🔷 **Get Next Line**
-- **Açıklama:** Bir dosyadan satır satır veri okuma fonksiyonu.
-- **Puan:** ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen)
-
-### 🔷 **Ft_printf**
-- **Açıklama:** printf fonksiyonunun yeniden yazımı.
-- **Puan:** ![115/115](https://img.shields.io/badge/-115%2F115-brightgreen)
+Bu repoda, Ecole 42'de tamamladığım projeleri ve sınavları bulabilirsiniz. Her proje için aldığım puanlar aşağıda listelenmiştir. 📊
 
 ---
 
-## **Sınavlarım** 🧑‍🏫
+## **Projelerim** 📚
 
-### 📝 **C Piscine Exam 01**
-- **Puan:** ![85/100](https://img.shields.io/badge/-85%2F100-yellow)
-
-### 📝 **C Exam 02**
-- **Puan:** ![90/100](https://img.shields.io/badge/-90%2F100-yellow)
+- **Libft:** C dilinde kütüphane - **125/125**
+- **Get Next Line:** Dosyadan satır okuma fonksiyonu - **100/100**
+- **Ft_printf:** printf fonksiyonu yazımı - **115/115**
+- **Born2beroot:** Sanal makine kurulumu - **110/110**
 
 ---
 
-## 📂 **Hızlı Erişim**
-- [Ecole 42 Ana Sayfa](https://42.fr/en/homepage/)
-- [Projelerim](#proje-listesi)
+## **Sınavlarım** 📝
 
+- **C Piscine Exam 01:** 85/100
+- **C Exam 02:** 90/100
+
+---
+
+## **Bağlantılar**
+- [42 Ana Sayfa](https://42.fr/en/homepage/)
