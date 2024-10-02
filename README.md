@@ -7,6 +7,9 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 ## 📂 **Proje Listesi ve Notlarım**
 
 | 📝 **Proje Adı**             | 📖 **Açıklama**                            | 🌟 **Puan** |
+| AAA | AAA | AAA | AAA | AAA | AAA |
+| AAA | AAA | AAA | AAA | AAA | AAA |
+
 | --------------------------- | ------------------------------------------ | ----------- |
 | **Libft**                    | C dilinde kişisel kütüphane                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) | | **Libft**                    | C dilinde kişisel kütüphane                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Get Next Line**            | Dosyadan satır satır okuma programı         | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
