@@ -50,7 +50,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 ## 📞 **İletişim Bilgileri**
 
-- 📧 Email: [enver@gmail.com](mailto:enver@gmail.com)
+- 📧 Email: [enverbey1534@gmail.com](mailto:enverbey1534@gmail.com)
 
 ---
 
