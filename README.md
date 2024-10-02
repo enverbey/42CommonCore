@@ -19,7 +19,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | **Philosophers**             | Çoklu işlemci senkronizasyonu üzerine bir proje      | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **NetPractice**              | Ağ programlama becerilerini geliştirmeye yönelik bir proje | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Cub3d**                    | 3D harita oluşturma ve görüntüleme projesi          | ![110/125](https://img.shields.io/badge/-110%2F125-brightgreen) |
-| **CPP Modules**              | C++ ile ilgili çeşitli modüllerin öğrenilmesi       | ![80/125](https://img.shields.io/badge/-80%2F125-yellow) |
+| **CPP Modules**              | C++ ile ilgili çeşitli modüllerin öğrenilmesi       | ![105/125](https://img.shields.io/badge/-80%2F125-yellow) |
 | **Ft_irc**                   | IRC protokolü ile bir sohbet uygulaması              | ![108/125](https://img.shields.io/badge/-108%2F125-brightgreen) |
 | **Inception**                | Docker kullanarak bir uygulamanın altyapısını oluşturma | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Ft_transcendence**         | Birden fazla projeyi kapsayan son proje              | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
