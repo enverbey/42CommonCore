@@ -30,13 +30,11 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 | 🎓 **Sınav Adı**             | 🌟 **Puan** |
 | ---------------------------- | ----------- |
-| **Exam Rank 02**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-| **Exam Rank 03**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-| **Exam Rank 04**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-| **Exam Rank 05**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-| **Exam Rank 06**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-
-
+| **Exam Rank 02**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| **Exam Rank 03**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| **Exam Rank 04**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| **Exam Rank 05**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| **Exam Rank 06**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 
 ---
 
