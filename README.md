@@ -42,7 +42,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 ## 🔗 **Kısayollar**
 
 - [🌐 Ecole 42 Resmi Sitesi](https://42.fr/en/homepage/)
-- [🏫 42 Kocaeli Ana Sayfası](https://kocaeli.42.fr/)
+- [🏫 42 Kocaeli Ana Sayfası](https://42kocaeli.com.tr)
 - [👤 GitHub Profilim](https://github.com/enverbey)
 - [📑 Proje Listesi ve Notlarım](#-proje-listesi-ve-notlarım)
 
