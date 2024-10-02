@@ -48,4 +48,17 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 ---
 
+## 📞 **İletişim Bilgileri**
+
+- 📧 Email: [enver@gmail.com](mailto:enver@gmail.com)
+
+---
+
+## 📚 **Referanslar**
+
+- [Cplusplus.com](https://cplusplus.com)
+- [C Programming](https://www.cprogramming.com)
+- [C++ Reference](https://en.cppreference.com/w/)
+
+---
 Her branch'te projenin kodlarını ve açıklamalarını bulabilirsiniz. Herkese başarılar! 🚀
