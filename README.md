@@ -8,7 +8,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 | 📝 **Proje Adı**             | 📖 **Açıklama**                            | 🌟 **Puan** |
 | --------------------------- | ------------------------------------------ | ----------- |
-| **Libft**                    | C dilinde kişisel kütüphane                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
+| **Libft**                    | C dilinde kişisel kütüphane                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) | | **Libft**                    | C dilinde kişisel kütüphane                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Get Next Line**            | Dosyadan satır satır okuma programı         | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 | **Ft_printf**                | Özelleştirilmiş printf fonksiyonu           | ![115/115](https://img.shields.io/badge/-115%2F115-brightgreen) |
 | **Born2beroot**              | Sanal makine kurulum projesi                | ![110/110](https://img.shields.io/badge/-110%2F110-brightgreen) |
