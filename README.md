@@ -22,9 +22,11 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 | 🎓 **Sınav Adı**             | 🌟 **Puan** |
 | ---------------------------- | ----------- |
-| **C Piscine Exam 01**         | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
-| **C Exam 02**                 | ![90/100](https://img.shields.io/badge/-90%2F100-yellow) |
-| **Algorithm Exam Rank 02**    | ![80/100](https://img.shields.io/badge/-80%2F100-orange) |
+| **Exam Rank 02**             | ![85/100](https://img.shields.io/badge/-85%2F100-yellow) |
+| **Exam Rank 03**             | ![90/100](https://img.shields.io/badge/-90%2F100-yellow) |
+| **Exam Rank 04**             | ![80/100](https://img.shields.io/badge/-80%2F100-orange) |
+| **Exam Rank 05**             | ![80/100](https://img.shields.io/badge/-80%2F100-orange) |
+| **Exam Rank 06**             | ![80/100](https://img.shields.io/badge/-80%2F100-orange) |
 
 ---
 
