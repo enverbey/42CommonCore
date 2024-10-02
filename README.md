@@ -17,25 +17,14 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | **Pipex**                    | Shell komutlarını pipe ile bağlama          | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 
 ---
-## 📂 **Proje Listesi ve Notlarım**
 
+| Circle 0 & 1                                 | Durum                                       |
+| --------------------------------------------- | ------------------------------------------- |
+| [Libft](link_to_libft)                       | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
+| [Get Next Line](link_to_get_next_line)      | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [Ft_printf](link_to_ft_printf)               | ![115/115](https://img.shields.io/badge/-115%2F115-brightgreen) |
+| [Born2beroot](link_to_born2beroot)          | ![110/110](https://img.shields.io/badge/-110%2F110-brightgreen) |
 
-### 🛠️ **Proje Adı**                 | 🌟 **Puan**                       | 🛠️ **Proje Adı**                | 🌟 **Puan**
-| ----------------------------------- | --------------------------------- | ------------------------------- | ------------------------------ |
-| **Libft**                           | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) | **CPP Module 01**               | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Get Next Line**                   | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) | **CPP Module 02**               | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Ft_printf**                       | ![115/115](https://img.shields.io/badge/-115%2F115-brightgreen) | **CPP Module 03**               | ![95/100](https://img.shields.io/badge/-95%2F100-yellow)        |
-| **Born2beroot**                     | ![110/110](https://img.shields.io/badge/-110%2F110-brightgreen) | **CPP Module 04**               | ![90/100](https://img.shields.io/badge/-90%2F100-yellow)        |
-| **So Long**                         | ![90/100](https://img.shields.io/badge/-90%2F100-yellow)        | **CPP Module 05**               | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        |
-| **Minitalk**                        | ![95/100](https://img.shields.io/badge/-95%2F100-yellow)        | **CPP Module 06**               | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        |
-| **Push_swap**                       | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        | **CPP Module 07**               | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        |
-| **Minishell**                       | ![90/100](https://img.shields.io/badge/-90%2F100-yellow)        | **CPP Module 08**               | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        |
-| **Philosophers**                    | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) | **CPP Module 09**               | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        |
-| **NetPractice**                     | ![85/100](https://img.shields.io/badge/-85%2F100-yellow)        | **Ft_irc**                      | ![90/100](https://img.shields.io/badge/-90%2F100-yellow)        |
-| **Cub3d**                           | ![90/100](https://img.shields.io/badge/-90%2F100-yellow)        | **Inception**                   | ![95/100](https://img.shields.io/badge/-95%2F100-yellow)        |
-| **CPP Module 00**                   | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) | **Ft_transcendence**            | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-
----
 
 
 
