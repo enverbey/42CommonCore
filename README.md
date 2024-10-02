@@ -7,6 +7,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 ## 📂 **Proje Listesi ve Notlarım**
 
 | 📝 **Proje Adı**             | 📖 **Açıklama**                            | 🌟 **Puan** |
+| ----|---- | ----|---- | ----|---- |
 | AAA | AAA | AAA | AAA | AAA | AAA |
 | AAA | AAA | AAA | AAA | AAA | AAA |
 
