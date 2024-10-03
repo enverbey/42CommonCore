@@ -32,7 +32,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | ---------------------------- | ----------- |
 | [**Exam Rank 02**][tree_exam02]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 | [**Exam Rank 03**][tree_exam03]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| [**Exam Rank 04**][tree_exam04]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| <span style="color: red;">[**Exam Rank 04**][tree_exam04]</span>             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 | [**Exam Rank 05**][tree_exam05]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 | [**Exam Rank 06**][tree_exam06]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 
