@@ -16,7 +16,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | **Minitalk**                 | İki süreç arasında iletişim sağlayan bir proje       | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Push_swap**                | Yığın tabanlı sıralama algoritmaları projesi        | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Minishell**                | Kendi kabuğumuzu oluşturma projesi                   | ![101/125](https://img.shields.io/badge/-101%2F125-brightgreen) |
-| **Philosophers**             | Çoklu işlemci senkronizasyonu üzerine bir proje      | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
+| [**Philosophers**][tree_Philosophers]             | Çoklu işlemci senkronizasyonu üzerine bir proje      | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **NetPractice**              | Ağ programlama becerilerini geliştirmeye yönelik bir proje | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Cub3d**                    | 3D harita oluşturma ve görüntüleme projesi          | ![110/125](https://img.shields.io/badge/-110%2F125-brightgreen) |
 | [**CPP Modules**][tree_cppmodules]              | C++ ile ilgili çeşitli modüllerin öğrenilmesi       | ![105/125](https://img.shields.io/badge/-105%2F125-brightgreen) |
@@ -64,3 +64,8 @@ Her branch'te projenin kodlarını ve açıklamalarını bulabilirsiniz. Herkese
 
 [tree_Libft]: https://github.com/enverbey/42CommonCoreProjects/tree/Libft
 [tree_cppmodules]: https://github.com/enverbey/42CommonCoreProjects/tree/CPP_Modules
+[tree_Philosophers]: https://github.com/enverbey/42CommonCoreProjects/tree/Philosophers/
+
+
+
+
