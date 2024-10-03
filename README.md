@@ -9,7 +9,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | 📝 **Proje Adı**             | 📖 **Açıklama**                            | 🌟 **Puan** |
 | --------------------------- | ------------------------------------------ | ----------- |
 | [**Libft**][tree_Libft]                    | C dilinde kişisel kütüphane geliştirme projesi      | ![124/125](https://img.shields.io/badge/-124%2F125-brightgreen) |
-| **Get Next Line**            | Dosyadan satır satır okuma işlevi                    | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
+| [**Get Next Line**][tree_cppmodules]            | Dosyadan satır satır okuma işlevi                    | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Ft_printf**                | Özelleştirilmiş printf işlevi                         | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Born2beroot**              | Sanal makine kurulumu ve yapılandırması              | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **So Long**                  | Basit bir 2D oyun geliştirme projesi                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
@@ -63,3 +63,4 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 Her branch'te projenin kodlarını ve açıklamalarını bulabilirsiniz. Herkese başarılar! 🚀
 
 [tree_Libft]: https://github.com/enverbey/42CommonCoreProjects/tree/Libft
+[tree_cppmodules]: https://github.com/enverbey/42CommonCoreProjects/tree/CPP_Modules
