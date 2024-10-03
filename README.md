@@ -30,11 +30,11 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 | 🎓 **Sınav Adı**             | 🌟 **Puan** |
 | ---------------------------- | ----------- |
-| **Exam Rank 02**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Exam Rank 03**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Exam Rank 04**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Exam Rank 05**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
-| **Exam Rank 06**             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [**Exam Rank 02**][tree_exam02]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [**Exam Rank 03**][tree_exam03]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [**Exam Rank 04**][tree_exam04]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [**Exam Rank 05**][tree_exam05]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
+| [**Exam Rank 06**][tree_exam06]             | ![100/100](https://img.shields.io/badge/-100%2F100-brightgreen) |
 
 ---
 
@@ -78,6 +78,11 @@ Her branch'te projenin kodlarını ve açıklamalarını bulabilirsiniz. Herkese
 [tree_Inception]: https://github.com/enverbey/42CommonCoreProjects/tree/Inception
 [tree_ft_transcendence]: https://github.com/enverbey/42CommonCoreProjects/tree/ft_transcendence
 
+[tree_exam02]: https://github.com/enverbey/42CommonCoreProjects/tree/Exam_Rank_02
+[tree_exam03]: https://github.com/enverbey/42CommonCoreProjects/tree/Exam_Rank_03
+[tree_exam04]: https://github.com/enverbey/42CommonCoreProjects/tree/Exam_Rank_04
+[tree_exam05]: https://github.com/enverbey/42CommonCoreProjects/tree/Exam_Rank_05
+[tree_exam06]: https://github.com/enverbey/42CommonCoreProjects/tree/Exam_Rank_06
 
 
 
