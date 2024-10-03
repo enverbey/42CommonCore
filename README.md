@@ -8,8 +8,8 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 
 | 📝 **Proje Adı**             | 📖 **Açıklama**                            | 🌟 **Puan** |
 | --------------------------- | ------------------------------------------ | ----------- |
-| [**Libft**][tree_Libft]                    | C dilinde kişisel kütüphane geliştirme projesi      | ![124/125](https://img.shields.io/badge/-124%2F125-brightgreen) |
-| [**Get Next Line**][tree_cppmodules]            | Dosyadan satır satır okuma işlevi                    | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
+| [**Libft**][tree_Libft]      | C dilinde kişisel kütüphane geliştirme projesi      | ![124/125](https://img.shields.io/badge/-124%2F125-brightgreen) |
+| **Get Next Line**            | Dosyadan satır satır okuma işlevi                    | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
 | **Ft_printf**                | Özelleştirilmiş printf işlevi                         | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Born2beroot**              | Sanal makine kurulumu ve yapılandırması              | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **So Long**                  | Basit bir 2D oyun geliştirme projesi                 | ![125/125](https://img.shields.io/badge/-125%2F125-brightgreen) |
@@ -19,7 +19,7 @@ Hoş geldiniz! 👋 Bu repoda, Ecole 42'de tamamladığım projeleri bulacaksın
 | **Philosophers**             | Çoklu işlemci senkronizasyonu üzerine bir proje      | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **NetPractice**              | Ağ programlama becerilerini geliştirmeye yönelik bir proje | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Cub3d**                    | 3D harita oluşturma ve görüntüleme projesi          | ![110/125](https://img.shields.io/badge/-110%2F125-brightgreen) |
-| **CPP Modules**              | C++ ile ilgili çeşitli modüllerin öğrenilmesi       | ![105/125](https://img.shields.io/badge/-105%2F125-brightgreen) |
+| [**CPP Modules**][tree_cppmodules]              | C++ ile ilgili çeşitli modüllerin öğrenilmesi       | ![105/125](https://img.shields.io/badge/-105%2F125-brightgreen) |
 | **Ft_irc**                   | IRC protokolü ile bir sohbet uygulaması              | ![108/125](https://img.shields.io/badge/-108%2F125-brightgreen) |
 | **Inception**                | Docker kullanarak bir uygulamanın altyapısını oluşturma | ![100/125](https://img.shields.io/badge/-100%2F125-brightgreen) |
 | **Ft_transcendence**         | Birden fazla projeyi kapsayan son proje              | ![🚧 Devam Ediyor](https://img.shields.io/badge/-🚧%20Devam%20Ediyor-orange) |
