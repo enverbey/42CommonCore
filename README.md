@@ -1,4 +1,4 @@
-# 🎓 **Ecole 42 Common Core Projects** 
+# 🎓 **Ecole 42 CPP Module Projects** 
 
 Hoş geldiniz! 👋
 
