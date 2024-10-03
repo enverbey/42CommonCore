@@ -88,9 +88,9 @@ Her branch'te projenin kodlarını ve açıklamalarını bulabilirsiniz. Herkese
 
 
 
-
-
-
+🛠️ - Geliştirme aşamasında
+⚠️ - Dikkat, eksik içerik
+🔨 - Tamamlanmamış proje
 
 
 
