@@ -25,7 +25,7 @@ make
 ```
 ./ircserv 4242 123
 ```
-### Connect with terminal for Linux and Mac
+## Connect with terminal for Linux and Mac
 1- Connect to the server with nc (Netcat)
 ```
 nc localhost 4242 
