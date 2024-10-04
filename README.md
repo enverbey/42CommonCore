@@ -1,5 +1,6 @@
 ## Installing and running the project:
-## Installing
+
+### Installing
 1- Clone this repository
 ```
 git clone git@github.com:enverbey/42CommonCore.git ft_irc
@@ -14,13 +15,13 @@ cd ft_irc
 ```
 git checkout ft_irc
 ```
-## Running
+### Running
 1- Compile the project
 ```
 make
 ```
 
-2- Run the project ./ircserv [Port id] [Password]
+2- Run the project *./ircserv [Port id] [Password]*
 ```
 ./ircserv 4242 123
 ```
