@@ -25,7 +25,6 @@ make
 ```
 ./ircserv 4242 123
 ```
-
 ### Connect with terminal for Linux and Mac
 1- Connect to the server with nc (Netcat)
 ```
@@ -43,7 +42,6 @@ USER enver 0 * enveryilmaz
 At this point, you'll be connected to the IRC server and ready to communicate.
 
 ---
-
 My partner in this project is [Burak Ortakuz](https://github.com/BurakOrtakuz).
 
 ---
