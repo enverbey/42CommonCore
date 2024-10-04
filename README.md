@@ -27,17 +27,20 @@ make
 ```
 
 ### Connect with terminal for Linux and Mac
-1- You must enter your password first.
+1- Connect to the server with nc (Netcat)
+```
+nc localhost 4242 
+```
+2- Authenticate with the server
 ```
 PASS 123
 ```
-2- You must enter personal information.
-NICK [enver]
-USER [username] [hostname] [servername] [realname]NICK 
+3- Register with a nickname and user details
 ```
 NICK enver
 USER enver 0 * enveryilmaz
 ```
+At this point, you'll be connected to the IRC server and ready to communicate.
 
 ---
 
