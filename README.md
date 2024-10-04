@@ -1,5 +1,5 @@
-### Installing and running the project:
-
+## Installing and running the project:
+## Installing
 1- Clone this repository
 ```
 git clone git@github.com:enverbey/42CommonCore.git ft_irc
@@ -14,8 +14,19 @@ cd ft_irc
 ```
 git checkout ft_irc
 ```
+## Running
+1- Compile the project
+```
+make
+```
 
-My partner in this project is Burak Ortakuz(https://github.com/BurakOrtakuz).
+2- Run the project ./ircserv [Port id] [Password]
+```
+./ircserv 4242 123
+```
+
+
+My partner in this project is [Burak Ortakuz](https://github.com/BurakOrtakuz).
 
 ## Useful links
 The IRC protocol I referenced in the project : https://modern.ircdocs.horse
