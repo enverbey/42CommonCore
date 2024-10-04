@@ -14,6 +14,9 @@ cd ft_irc
 ```
 git checkout ft_irc
 ```
+
+My partner in this project is Burak Ortakuz(https://github.com/BurakOrtakuz).
+
 ## Useful links
 The IRC protocol I referenced in the project : https://modern.ircdocs.horse
 
