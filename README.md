@@ -35,3 +35,4 @@ make
 
 - 🌐 [C Programming](https://www.cprogramming.com)
 - 📝 [Bitwise Operators](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)
+- 📡 [Sending Signals with kill](https://www.codequoi.com/en/sending-and-intercepting-a-signal-in-c/#sending-a-signal-with-the-kill-system-call-in-c)
