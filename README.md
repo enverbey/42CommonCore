@@ -41,10 +41,8 @@ make
 
 ## 🔗 Useful links
 
-- Free Sprites for Games: (Itch.io - Free Game Assets)[https://itch.io/game-assets/free/tag-sprites]
-- (MiniLibX Documentation)[https://harm-smits.github.io/42docs/libs/minilibx]
-- (MiniLibX X Window Programming: Understanding the MiniLibX)[https://medium.com/@jalal92/understanding-the-minilibx-a-practical-dive-into-x-window-programming-api-in-c-cb8a6f72bec3]
-- [MiniLibX Setup Tutorial: MiniLibX Setup on YouTube](https://medium.com/@jalal92/understanding-the-minilibx-a-practical-dive-into-x-window-programming-api-in-c-cb8a6f72bec3)
-- [C Programming Resource: C Programming](https://www.youtube.com/watch?v=bYS93r6U0zg)
-- [C Programming](https://www.cprogramming.com)
-
+- 🖼️ [Free Sprites for Games: Itch.io - Free Game Assets](https://itch.io/game-assets/free/tag-sprites)
+- 📚 [MiniLibX Documentation](https://harm-smits.github.io/42docs/libs/minilibx)
+- 📝 [MiniLibX X Window Programming: Understanding the MiniLibX](https://medium.com/@jalal92/understanding-the-minilibx-a-practical-dive-into-x-window-programming-api-in-c-cb8a6f72bec3)
+- 📺 [C Programming Resource: C Programming](https://www.youtube.com/watch?v=bYS93r6U0zg)
+- 🌐 [C Programming](https://www.cprogramming.com)
