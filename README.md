@@ -15,16 +15,6 @@ cd ft_printf
 ```
 git checkout ft_printf
 ```
-### ▶️ Running
-1- Compile<br>
-```
-gcc main.c ft_printf.c ft_printf_outside.c -o a.out
-```
-
-2- Run the executable<br>
-```
-./a.out
-```
 
 ## 🔗 Useful links
 
